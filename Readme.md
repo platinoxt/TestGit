@@ -1,1 +1,1 @@
-Este es un repositorio para recordar GIT
+Aplico el cambio de contenido en el repositorio para recordar GIT
